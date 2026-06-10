@@ -1,11 +1,11 @@
-<h1 align="center">Hi, I'm Sunandan Sharma 👋</h1>
+<h1 align="center">Hi, I'm Sunandan Sharma </h1>
 
 <p align="center">
   <b>B.E. CSE (AI & ML) @ Chandigarh University</b> &nbsp;|&nbsp; Full-Stack Developer &nbsp;|&nbsp; Researcher &nbsp;|&nbsp; Problem Solver
 </p>
 
 <p align="center">
-  <a href="mailto:sunandansharmaofficial@gmail.com">📧 Email</a> &nbsp;•&nbsp;
+  <a href="mailto:sunandansharmaofficial@gmail.com">📧 sunandansharmaofficial@gmail.com </a> &nbsp;•&nbsp;
   📍 Kishtwar, J&K &nbsp;•&nbsp;
   📞 +91 8082350149
 </p>
