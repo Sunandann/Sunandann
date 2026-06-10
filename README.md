@@ -69,7 +69,7 @@ A full-stack RBAC system built with the **MERN stack** (MongoDB, Express, React,
 An integrated hardware-software system for real-time distance measurement and object detection.
 - Implemented sensor logic and data processing for precise detection
 - **Published & presented at ICITS'25**
-- Conference paper accepted at **Springer Nature** — [View Paper](https://link.springer.com)
+- Conference paper accepted at **Springer Nature** — [View Paper](https://link.springer.com/chapter/10.1007/978-3-031-93106-2_4)
 
 ---
 
