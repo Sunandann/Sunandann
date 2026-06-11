@@ -19,7 +19,7 @@ I'm a CSE (AI & ML) student with a strong foundation in Data Structures, Algorit
 - 🎓 CGPA: **8.65** at Chandigarh University
 - 🔬 Published patent on an **Industrial Safety Monitoring Wearable Device**
 - 📄 Conference paper at **ICITS'25**, accepted at **Springer Nature**
-- 🤖 Currently working on an **AI-enabled accident detection system**
+- 🤖 Currently working on an **Explainable Loan Default risk scoring using SHAP**
 - 💡 Actively practicing DSA in **C++ and Python**
 
 ---
