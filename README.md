@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Sunandan Sharma </h1>
 
 <p align="center">
-  <b>B.E. CSE (AI & ML) @ Chandigarh University</b> &nbsp;|&nbsp; Full-Stack Developer &nbsp;|&nbsp; Researcher &nbsp;|&nbsp; Problem Solver
+  <b>B.E. CSE (AI & ML) @ Chandigarh University</b> &nbsp;|&nbsp; Full-Stack Developer &nbsp;|&nbsp; Machine Learning Engineer &nbsp;|&nbsp; Researcher &nbsp;|&nbsp; Problem Solver
 </p>
 
 <p align="center">
